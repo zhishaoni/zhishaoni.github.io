@@ -163,11 +163,7 @@ analytics:
 # Reading Files
 include:
   - .htaccess
-  # Explicit page allowlist: keep the public site intentionally small.
-  - _pages/404.md
-  - _pages/about.md
-  - _pages/publications.html
-  - _pages/cv.md
+  - _pages
   - files
 exclude:
   - "*.sublime-project"
