@@ -24,13 +24,13 @@ repository               : "zhishaoni/zhishaoni.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhishao Ni"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Nanchang-China"
+  employer         : "East China Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nzs0609@163.com" 
 
   # Academic websites
   academia         : # URL
