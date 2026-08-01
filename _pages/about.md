@@ -9,18 +9,10 @@ redirect_from:
 
 👋 Greetings! I am Zhishao Ni, a master’s student at East China Jiaotong University under the supervision of Professor Dequan Zeng.
 
-My research interests include reinforcement learning, deep learning, and intelligent systems.
+📈 My current research interest include Reinforcement Learning of Autonomous Vehicles.
 
-## Research Interests
+I am currently seeking a PhD position and would welcome opportunities to conduct research in safe autonomous driving and end-to-end driving systems.
 
-- Reinforcement Learning
-- Deep Learning
-- Artificial Intelligence
-- Robotics and Intelligent Control
-
-## Education
-
-**East China Jiaotong University**
 
 ## Contact
 
