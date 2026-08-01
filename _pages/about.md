@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhishao Ni, a student at East China Jiaotong University.
+👋 Greetings! I am Zhishao Ni, a master’s student at East China Jiaotong University under the supervision of Professor Dequan Zeng.
 
 My research interests include reinforcement learning, deep learning, and intelligent systems.
 
