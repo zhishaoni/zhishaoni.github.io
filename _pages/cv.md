@@ -20,9 +20,17 @@ Graduate researcher in autonomous driving, with a focus on motion planning, rein
 - **Master of Engineering in Mechanical Engineering (expected)**, East China Jiaotong University, Nanchang, China, Sep 2024 - Jun 2027
 - **Bachelor of Engineering in Vehicle Engineering**, Anhui Science and Technology University, Anhui, China, Sep 2019 - Jun 2023
 
-## Research Interests
+## Research Directions
 
-Autonomous driving motion planning; safe and intelligent decision control; reinforcement learning; model predictive control; safety-efficiency co-optimization in complex interactive traffic environments.
+_**Safe Reinforcement Learning for Autonomous Driving**_
+  Physics-informed residual reinforcement learning with model-based expert priors
+Multi-critic risk evaluation and hybrid safety intervention
+
+_**Optimization-Based Planning and Predictive Control**_
+  Unified trajectory planning and tracking control for autonomous parking
+  Model predictive control under dynamic, actuation, and safety constraints
+  Integrated planning and control for autonomous merging and vehicle motion stabilization
+
 
 ## Journal Publications
 
