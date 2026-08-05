@@ -41,12 +41,6 @@ Developing a ramp-merging decision and control framework that combines model pre
 
 1. D. Zeng\*, **Z. Ni**, J. Lu, et al., "Speed-Scheduled Predictive Yaw Stabilization for a Four-Axle Electric Wheel-Driven Vehicle," *The 3rd International Conference on Intelligent Systems and Robotics*. (EI indexed; second author)
 
-## Patents
-
-1. **Granted.** "An MPC-guided reinforcement learning method for autonomous-driving ramp merging." Inventors: Dequan Zeng, **Zhishao Ni**, Yiming Hu, and Jinwen Yang. East China Jiaotong University, 2026.
-2. **Published application.** "A phase-adaptive reinforcement learning method for autonomous-driving ramp merging." Inventors: Dequan Zeng, **Zhishao Ni**, Junyu Zhou, Jun Lu, Yiming Hu, and Jinwen Yang. East China Jiaotong University, 2026.
-3. **Under examination.** "An autonomous-vehicle merging method based on a candidate-gap lane-changing potential function." Inventors: Dequan Zeng, **Zhishao Ni**, Junyu Zhou, Yiming Hu, and Jinwen Yang. East China Jiaotong University, 2026.
-
 ## Honors and Awards
 
 - **2026:** First Prize, Jiangxi Provincial Graduate Mathematical Contest in Modeling
