@@ -23,12 +23,17 @@ Graduate researcher in autonomous driving, with a focus on motion planning, rein
 ## Research Directions
 
 _**Safe Reinforcement Learning for Autonomous Driving**_
-  Physics-informed residual reinforcement learning with model-based expert priors
+
+Physics-informed residual reinforcement learning with model-based expert priors
+
 Multi-critic risk evaluation and hybrid safety intervention
 
 _**Optimization-Based Planning and Predictive Control**_
+
   Unified trajectory planning and tracking control for autonomous parking
+  
   Model predictive control under dynamic, actuation, and safety constraints
+  
   Integrated planning and control for autonomous merging and vehicle motion stabilization
 
 
