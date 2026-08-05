@@ -54,8 +54,3 @@ Developing a ramp-merging decision and control framework that combines model pre
 - **Engineering and design:** AutoCAD, SolidWorks
 - **Productivity:** Microsoft Office
 - **Research capabilities:** reinforcement learning, model predictive control, autonomous-driving decision and control, mathematical modeling
-
-## Languages
-
-- Chinese: Native
-- English: CET-4 and CET-6
